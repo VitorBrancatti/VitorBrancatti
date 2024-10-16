@@ -1,6 +1,7 @@
 ## Oi, me chamo Vitor. 👋
 
 Sobre mim
+
 🎓 Eu estudo Análise e Desenolvimento de Software na Fatec Americana
 
 🔎 Interessado na área da Engenharia de Software
