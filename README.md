@@ -2,7 +2,7 @@
 
 Sobre mim
 
-🎓 Eu estudo Análise e Desenolvimento de Software na Fatec Americana
+🎓 Eu estudo Análise e Desenolvimento de Sistemas na Fatec Americana
 
 🔎 Interessado na área da Engenharia de Software
 
